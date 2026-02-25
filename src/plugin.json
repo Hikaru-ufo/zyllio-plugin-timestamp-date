@@ -1,0 +1,8 @@
+{
+    "name": "Plugin Timestamp Date Lisible",
+    "description": "Retourne la date et heure au format JJ/MM/AAAA HH:MM:SS",
+    "author": "Hikaru",
+    "company": "Serenitix",
+    "icon": "https://cdn.jsdelivr.net/gh/Hikaru-ufo/zyllio-images@main/icones/icone-serenitix-s.png",
+    "version": "1.0.0"
+}
