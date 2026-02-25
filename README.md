@@ -22,7 +22,7 @@ Retourne une date Zyllio formatée en `JJ/MM/AAAA HH:MM:SS`.
 https://hikaru-ufo.github.io/zyllio-plugin-timestamp/src/timestamp-date.js
 ...
 
-
+ou
 ...
 https://cdn.jsdelivr.net/gh/Hikaru-ufo/zyllio-plugin-timestamp-date@main/src/timestamp-date.js
 ```
