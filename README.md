@@ -19,7 +19,7 @@ Retourne une date Zyllio formatée en `JJ/MM/AAAA HH:MM:SS`.
 ## Installation dans Zyllio Studio
 
 ```
-https://hikaru-ufo.github.io/zyllio-plugin-timestamp/src/timestamp-date.js
+https://hikaru-ufo.github.io/zyllio-plugin-timestamp-date/src/timestamp-date.js
 ```
 ou
 ```
